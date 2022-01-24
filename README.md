@@ -13,7 +13,7 @@ conda create --prefix ./envs python=3.7 -y
 ### activate env
 
 ```bash
-conda activate ./envs
+conda activate ./envs ok
 ```
 
 ## Reference -
